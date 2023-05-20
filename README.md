@@ -1,7 +1,7 @@
-<h1 align="center"> DevStarter Projeto #01 </h1>
+<h1 align="center"> DevStarter Projeto #02 </h1>
 
 <p align="center">
-Primeiro projeto criado na formação DevStarter no módulo de introdução ao HTML e CSS
+Segundo projeto criado na formação DevStarter no módulo de Introdução ao HTML e CSS
 </p>
 
 <p align="center">
